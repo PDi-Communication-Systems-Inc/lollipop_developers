@@ -36,6 +36,5 @@ local.properties
 *.iws
 
 ##Gradle-based build
-.gradle
 build/
 
